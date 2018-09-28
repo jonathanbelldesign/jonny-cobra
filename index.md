@@ -6,3 +6,5 @@ layout: home
 ---
 
 <h1>Hello World! Here's a headline</h1>
+
+<p>Whatever</p>
